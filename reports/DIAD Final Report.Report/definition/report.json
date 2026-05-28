@@ -37,6 +37,17 @@
           "type": "BaseTheme"
         }
       ]
+    },
+    {
+      "name": "RegisteredResources",
+      "type": "RegisteredResources",
+      "items": [
+        {
+          "name": "ChatGPT_Image_May_28,_2026,_11945142023782017.png",
+          "path": "ChatGPT_Image_May_28,_2026,_11945142023782017.png",
+          "type": "Image"
+        }
+      ]
     }
   ],
   "settings": {
